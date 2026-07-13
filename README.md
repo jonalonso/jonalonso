@@ -41,7 +41,7 @@ Most repositories in this profile are Android applications and personal projects
 
 ### 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/TU-PERFIL
+- LinkedIn: [Check my profile](https://www.linkedin.com/in/jonathan-salazar-garcia-13aa04129)
 - Email: salazargarciajonathan@gmail.com
 
 ---
