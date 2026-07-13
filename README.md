@@ -29,18 +29,15 @@ Cloud         AWS • ECS • RDS • S3 • CloudFront • Cognito
 Tools         Docker • Git • CI/CD
 ```
 
-### 📱 Personal Projects
+### 📱 Mobile Development
 
-- Streak Walk — Android step tracking and habit building app
-- Costa Rica Travel Guide
-- Mobile productivity and utility apps
-- Experimental side projects and prototypes
+Most repositories in this profile are Android applications and personal projects.
 
-### 📈 GitHub Stats
+<a href="https://play.google.com/store/apps/dev?id=6102967687661678646">
+  <img src="https://img.shields.io/badge/Google_Play-My_Published_Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonalonso&show_icons=true" />
-</p>
+
 
 ### 🤝 Connect With Me
 
