@@ -21,8 +21,8 @@ Building scalable applications, cloud-native systems, and mobile products.
 ### 🛠️ Tech Stack
 
 ```text
-Frontend      React • TypeScript • Redux
-Backend       Node.js • Python • FastAPI • GraphQL
+Frontend      React • TypeScript • Redux • NextJS • Vue
+Backend       Node.js • Python • FastAPI • GraphQL • Express • Koa
 Data          PostgreSQL • Redis • SQL Server
 Messaging     RabbitMQ
 Cloud         AWS • ECS • RDS • S3 • CloudFront • Cognito
